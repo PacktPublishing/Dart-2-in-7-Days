@@ -1,0 +1,4 @@
+#Sun Oct 07 22:22:23 AST 2018
+base.0=/Users/kodechamp/projects/4.5 - Stateful Widgets Part 1/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

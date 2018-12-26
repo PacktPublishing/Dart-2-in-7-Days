@@ -1,0 +1,4 @@
+#Sun Nov 04 01:27:30 AST 2018
+base.0=/Users/kodechamp/projects/persisting_data_6_6/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

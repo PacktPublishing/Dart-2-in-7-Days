@@ -1,0 +1,4 @@
+#Sun Oct 21 20:41:15 AST 2018
+base.0=/Users/kodechamp/projects/Section 5/Section 5 Code Challenge/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
